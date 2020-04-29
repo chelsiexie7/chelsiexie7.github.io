@@ -97,19 +97,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "ACHPPI·华人心理与援助专业协会",
+        title: "ACHPPI",
         href: "http://achppi.org"
     },{
-        title: "OHS·治愈系空间",
+        title: "OHS",
         href: "https://onehealingspace.com"
     },{
-        title: "Dr.Lixian Cui",
-        href: "https://shanghai.nyu.edu/academics/faculty/directory/lixian-cui"
-    },{
-        title: "Dr.Chao YAH",
-        href: "https://www.researchgate.net/profile/Chao_Yan8"
-    },{
-        title: "ECNU·Faculty of Education",
-        href: "http://www.ed.ecnu.edu.cn/en/"
+        title: "ADRLab",
+        href: "http://adrlab.weebly.com"
     }
 ]
