@@ -1,18 +1,18 @@
 # Site settings
 title: Chi is here
 SEOTitle: Chi Blog | 阿驰附近
-header-img: img/post-bg-desk.jpg
+header-img: img/home-bg.jpg
 email: chelsiexie7@gmail.com
-description: "Stay Alive."
+description: "Stay Alive. Enjoy yourself."
 keyword: "Chi, Counselling Psychology, Credible Peers, Study Group, 阿驰, 学习小组, 咨询心理学"
 url: "http://chelsiexie7.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository #这个是什么意思？
+github_repo: "https://github.com/chelsiexie7/chelsiexie7.github.io.git" # you code repository 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Keeping the perosnal part is the prerequisite for being professional."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/portrait.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
